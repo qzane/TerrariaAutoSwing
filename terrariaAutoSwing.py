@@ -11,7 +11,7 @@ from queue import Queue
 import ctypes
 import time
 
-USAGE = 'Double press the middle button to start auto swing and single press to stop'
+USAGE = 'Double click the middle button to start auto swing and click to stop'
 
 PROCESS_PER_MONITOR_DPI_AWARE = 2
 
